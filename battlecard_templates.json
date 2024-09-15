@@ -1,0 +1,70 @@
+{
+    "title": {
+        "text": "Battlecard",
+        "font": {
+            "size": 24,
+            "color": "black"
+        },
+        "position": {
+            "x": 50,
+            "y": 50
+        }
+    },
+    "sections": [
+        {
+            "header": {
+                "text": "Competitors",
+                "font": {
+                    "size": 18,
+                    "color": "black"
+                },
+                "position": {
+                    "x": 50,
+                    "y": 100
+                }
+            },
+            "content": {
+                "font": {
+                    "size": 16,
+                    "color": "black"
+                },
+                "position": {
+                    "x": 70,
+                    "y": 130
+                },
+                "line_spacing": 20
+            }
+        },
+        {
+            "header": {
+                "text": "Product Information",
+                "font": {
+                    "size": 18,
+                    "color": "black"
+                },
+                "position": {
+                    "x": 50,
+                    "y": 400
+                }
+            },
+            "content": {
+                "font": {
+                    "size": 16,
+                    "color": "black"
+                },
+                "position": {
+                    "x": 70,
+                    "y": 430
+                },
+                "line_spacing": 20
+            }
+        }
+    ],
+    "divider": {
+        "color": "black",
+        "width": 2,
+        "position": {
+            "y": 600
+        }
+    }
+}
